@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110055" started-at="2015-06-11T02:40:23Z" finished-at="2015-06-11T02:42:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110055" started-at="2015-06-11T02:40:23Z" finished-at="2015-06-11T02:42:13Z">
+      <class name="com.example.tests.TourVerificationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.example.tests.TourVerificationTest@18e8568]" name="setUp" is-config="true" duration-ms="22250" started-at="2015-06-11T05:40:23Z" finished-at="2015-06-11T05:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTourVerification()[pri:0, instance:com.example.tests.TourVerificationTest@18e8568]" name="testTourVerification" duration-ms="83805" started-at="2015-06-11T05:40:46Z" finished-at="2015-06-11T05:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTourVerification -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.example.tests.TourVerificationTest@18e8568]" name="tearDown" is-config="true" duration-ms="3751" started-at="2015-06-11T05:42:10Z" finished-at="2015-06-11T05:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.tests.TourVerificationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
